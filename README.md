@@ -1,12 +1,20 @@
-# React + Vite
+I quite like the UI and the customizability of the Robinhood Legends website and wanted to experiment with something similar, but not on the same level as it.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This was my first time using react-grid-layout and reddit api so I don't have all the quirks down but a lot of the customizability was made easy to understand
+through documenation.
 
-Currently, two official plugins are available:
+React-grid-layout github: https://github.com/react-grid-layout/react-grid-layout
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1249" alt="image" src="https://github.com/user-attachments/assets/3877fc74-7dd6-4324-a9b4-0b39c489a88b" />
 
-## Expanding the ESLint configuration
+Prerequisites: Reddit api Client ID
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To install:
+- Tailwindcss
+- react-grid-layout
+- react-router-dom
+
+- then npm install in the client to start
+- npm run dev to run the program
+
+No backend talking just straight frontend to api call.
