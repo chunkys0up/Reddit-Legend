@@ -5,7 +5,8 @@ through documenation.
 
 React-grid-layout github: https://github.com/react-grid-layout/react-grid-layout
 
-<img width="1249" alt="image" src="https://github.com/user-attachments/assets/3877fc74-7dd6-4324-a9b4-0b39c489a88b" />
+<img width="1263" alt="image" src="https://github.com/user-attachments/assets/6aef557b-7cff-437b-8f61-799b4624d3cd" />
+
 
 Prerequisites: Reddit api Client ID
 
