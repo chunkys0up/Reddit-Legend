@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.react-grid-item.react-grid-placeholder {
+  background-color: rgb(12, 12, 12) !important; /* Tailwind's blue-500 */
+  border: 2px solid white !important; /* thickness + style + color */
+  opacity: 0.3 !important;
+  z-index: 10;
+}
